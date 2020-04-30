@@ -4101,6 +4101,7 @@ tbody.collapse.in {
 }
 
 .navbar-brand {
+    font-family: 'Pacifico', cursive;
     float: left;
     padding: 13px 15px;
     font-size: 18px;
